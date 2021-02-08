@@ -2,8 +2,8 @@
 <!DOCTYPE log SYSTEM "logger.dtd">
 <log>
 <record>
-  <date>2021-02-08T12:44:25</date>
-  <millis>1612784665338</millis>
+  <date>2021-02-08T13:27:39</date>
+  <millis>1612787259039</millis>
   <sequence>0</sequence>
   <logger>ma.exam.dpexam.Aspect.LogAspect</logger>
   <level>INFO</level>
@@ -13,8 +13,8 @@
   <message>Avant double ma.exam.dpexam.Composite.Circle.surface()</message>
 </record>
 <record>
-  <date>2021-02-08T12:44:25</date>
-  <millis>1612784665347</millis>
+  <date>2021-02-08T13:27:39</date>
+  <millis>1612787259052</millis>
   <sequence>1</sequence>
   <logger>ma.exam.dpexam.Aspect.LogAspect</logger>
   <level>INFO</level>
@@ -24,19 +24,19 @@
   <message>Après double ma.exam.dpexam.Composite.Circle.surface()</message>
 </record>
 <record>
-  <date>2021-02-08T12:44:25</date>
-  <millis>1612784665347</millis>
+  <date>2021-02-08T13:27:39</date>
+  <millis>1612787259052</millis>
   <sequence>2</sequence>
   <logger>ma.exam.dpexam.Aspect.LogAspect</logger>
   <level>INFO</level>
   <class>ma.exam.dpexam.Aspect.LogAspect</class>
   <method>log</method>
   <thread>15</thread>
-  <message>Durée : 11ms</message>
+  <message>Durée : 15ms</message>
 </record>
 <record>
-  <date>2021-02-08T12:44:25</date>
-  <millis>1612784665348</millis>
+  <date>2021-02-08T13:27:39</date>
+  <millis>1612787259053</millis>
   <sequence>3</sequence>
   <logger>ma.exam.dpexam.Aspect.LogAspect</logger>
   <level>INFO</level>
@@ -46,8 +46,8 @@
   <message>Avant double ma.exam.dpexam.Composite.Rectangle.piremiter()</message>
 </record>
 <record>
-  <date>2021-02-08T12:44:25</date>
-  <millis>1612784665354</millis>
+  <date>2021-02-08T13:27:39</date>
+  <millis>1612787259057</millis>
   <sequence>4</sequence>
   <logger>ma.exam.dpexam.Aspect.LogAspect</logger>
   <level>INFO</level>
@@ -57,19 +57,19 @@
   <message>Après double ma.exam.dpexam.Composite.Rectangle.piremiter()</message>
 </record>
 <record>
-  <date>2021-02-08T12:44:25</date>
-  <millis>1612784665354</millis>
+  <date>2021-02-08T13:27:39</date>
+  <millis>1612787259058</millis>
   <sequence>5</sequence>
   <logger>ma.exam.dpexam.Aspect.LogAspect</logger>
   <level>INFO</level>
   <class>ma.exam.dpexam.Aspect.LogAspect</class>
   <method>log</method>
   <thread>15</thread>
-  <message>Durée : 6ms</message>
+  <message>Durée : 5ms</message>
 </record>
 <record>
-  <date>2021-02-08T12:44:25</date>
-  <millis>1612784665354</millis>
+  <date>2021-02-08T13:27:39</date>
+  <millis>1612787259058</millis>
   <sequence>6</sequence>
   <logger>ma.exam.dpexam.Aspect.LogAspect</logger>
   <level>INFO</level>
@@ -77,60 +77,5 @@
   <method>log</method>
   <thread>15</thread>
   <message>Avant void ma.exam.dpexam.Observer.Parametrage.add(Figgur)</message>
-</record>
-<record>
-  <date>2021-02-08T12:44:25</date>
-  <millis>1612784665360</millis>
-  <sequence>7</sequence>
-  <logger>ma.exam.dpexam.Aspect.LogAspect</logger>
-  <level>INFO</level>
-  <class>ma.exam.dpexam.Aspect.LogAspect</class>
-  <method>log</method>
-  <thread>15</thread>
-  <message>Après void ma.exam.dpexam.Observer.Parametrage.add(Figgur)</message>
-</record>
-<record>
-  <date>2021-02-08T12:44:25</date>
-  <millis>1612784665360</millis>
-  <sequence>8</sequence>
-  <logger>ma.exam.dpexam.Aspect.LogAspect</logger>
-  <level>INFO</level>
-  <class>ma.exam.dpexam.Aspect.LogAspect</class>
-  <method>log</method>
-  <thread>15</thread>
-  <message>Durée : 6ms</message>
-</record>
-<record>
-  <date>2021-02-08T12:44:25</date>
-  <millis>1612784665361</millis>
-  <sequence>9</sequence>
-  <logger>ma.exam.dpexam.Aspect.LogAspect</logger>
-  <level>INFO</level>
-  <class>ma.exam.dpexam.Aspect.LogAspect</class>
-  <method>log</method>
-  <thread>15</thread>
-  <message>Avant void ma.exam.dpexam.Observer.Parametrage.add(Figgur)</message>
-</record>
-<record>
-  <date>2021-02-08T12:44:25</date>
-  <millis>1612784665361</millis>
-  <sequence>10</sequence>
-  <logger>ma.exam.dpexam.Aspect.LogAspect</logger>
-  <level>INFO</level>
-  <class>ma.exam.dpexam.Aspect.LogAspect</class>
-  <method>log</method>
-  <thread>15</thread>
-  <message>Après void ma.exam.dpexam.Observer.Parametrage.add(Figgur)</message>
-</record>
-<record>
-  <date>2021-02-08T12:44:25</date>
-  <millis>1612784665361</millis>
-  <sequence>11</sequence>
-  <logger>ma.exam.dpexam.Aspect.LogAspect</logger>
-  <level>INFO</level>
-  <class>ma.exam.dpexam.Aspect.LogAspect</class>
-  <method>log</method>
-  <thread>15</thread>
-  <message>Durée : 0ms</message>
 </record>
 </log>

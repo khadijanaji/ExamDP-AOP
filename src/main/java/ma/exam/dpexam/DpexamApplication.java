@@ -18,7 +18,7 @@ import java.util.ArrayList;
 public class DpexamApplication {
 
     public static void main(String[] args) {
-        AppContext.authenticateUser("admin","admin",new String[]{"ADMIN"});
+        AppContext.authenticateUser("admin","admin",new String[]{"USER"});
         SpringApplication.run(DpexamApplication.class, args);
     }
 

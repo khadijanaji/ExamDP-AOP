@@ -1,6 +1,4 @@
 package ma.exam.dpexam.Composite;
-
-
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
