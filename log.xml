@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-02-08T12:44:25</date>
+  <millis>1612784665338</millis>
+  <sequence>0</sequence>
+  <logger>ma.exam.dpexam.Aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>ma.exam.dpexam.Aspect.LogAspect</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Avant double ma.exam.dpexam.Composite.Circle.surface()</message>
+</record>
+<record>
+  <date>2021-02-08T12:44:25</date>
+  <millis>1612784665347</millis>
+  <sequence>1</sequence>
+  <logger>ma.exam.dpexam.Aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>ma.exam.dpexam.Aspect.LogAspect</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Après double ma.exam.dpexam.Composite.Circle.surface()</message>
+</record>
+<record>
+  <date>2021-02-08T12:44:25</date>
+  <millis>1612784665347</millis>
+  <sequence>2</sequence>
+  <logger>ma.exam.dpexam.Aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>ma.exam.dpexam.Aspect.LogAspect</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Durée : 11ms</message>
+</record>
+<record>
+  <date>2021-02-08T12:44:25</date>
+  <millis>1612784665348</millis>
+  <sequence>3</sequence>
+  <logger>ma.exam.dpexam.Aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>ma.exam.dpexam.Aspect.LogAspect</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Avant double ma.exam.dpexam.Composite.Rectangle.piremiter()</message>
+</record>
+<record>
+  <date>2021-02-08T12:44:25</date>
+  <millis>1612784665354</millis>
+  <sequence>4</sequence>
+  <logger>ma.exam.dpexam.Aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>ma.exam.dpexam.Aspect.LogAspect</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Après double ma.exam.dpexam.Composite.Rectangle.piremiter()</message>
+</record>
+<record>
+  <date>2021-02-08T12:44:25</date>
+  <millis>1612784665354</millis>
+  <sequence>5</sequence>
+  <logger>ma.exam.dpexam.Aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>ma.exam.dpexam.Aspect.LogAspect</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Durée : 6ms</message>
+</record>
+<record>
+  <date>2021-02-08T12:44:25</date>
+  <millis>1612784665354</millis>
+  <sequence>6</sequence>
+  <logger>ma.exam.dpexam.Aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>ma.exam.dpexam.Aspect.LogAspect</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Avant void ma.exam.dpexam.Observer.Parametrage.add(Figgur)</message>
+</record>
+<record>
+  <date>2021-02-08T12:44:25</date>
+  <millis>1612784665360</millis>
+  <sequence>7</sequence>
+  <logger>ma.exam.dpexam.Aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>ma.exam.dpexam.Aspect.LogAspect</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Après void ma.exam.dpexam.Observer.Parametrage.add(Figgur)</message>
+</record>
+<record>
+  <date>2021-02-08T12:44:25</date>
+  <millis>1612784665360</millis>
+  <sequence>8</sequence>
+  <logger>ma.exam.dpexam.Aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>ma.exam.dpexam.Aspect.LogAspect</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Durée : 6ms</message>
+</record>
+<record>
+  <date>2021-02-08T12:44:25</date>
+  <millis>1612784665361</millis>
+  <sequence>9</sequence>
+  <logger>ma.exam.dpexam.Aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>ma.exam.dpexam.Aspect.LogAspect</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Avant void ma.exam.dpexam.Observer.Parametrage.add(Figgur)</message>
+</record>
+<record>
+  <date>2021-02-08T12:44:25</date>
+  <millis>1612784665361</millis>
+  <sequence>10</sequence>
+  <logger>ma.exam.dpexam.Aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>ma.exam.dpexam.Aspect.LogAspect</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Après void ma.exam.dpexam.Observer.Parametrage.add(Figgur)</message>
+</record>
+<record>
+  <date>2021-02-08T12:44:25</date>
+  <millis>1612784665361</millis>
+  <sequence>11</sequence>
+  <logger>ma.exam.dpexam.Aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>ma.exam.dpexam.Aspect.LogAspect</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Durée : 0ms</message>
+</record>
+</log>
