@@ -1,5 +1,4 @@
 package ma.exam.dpexam.Observer;
-
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import ma.exam.dpexam.Aspect.MyLog;
@@ -9,7 +8,6 @@ import org.springframework.stereotype.Component;
 
 import java.lang.reflect.Parameter;
 import java.util.ArrayList;
-
 @Component
 @Data @AllArgsConstructor
 public class Parametrage implements Observable{
